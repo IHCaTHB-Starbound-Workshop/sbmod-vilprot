@@ -13,7 +13,7 @@
       "name": ""
     }
   },
-    {
+  {
     "op": "add",
     "path": "/items/avian/0/1/0/chest/-",
     "value": {
@@ -55,42 +55,42 @@
       "name": ""
     }
   },
-    {
+  {
     "op": "add",
     "path": "/items/human/0/1/0/chest/-",
     "value": {
       "name": ""
     }
   },
-    {
+  {
     "op": "add",
     "path": "/items/human/0/1/0/legs/-",
     "value": {
       "name": ""
     }
   },
-    {
+  {
     "op": "add",
     "path": "/items/hylotl/0/1/0/chest/-",
     "value": {
       "name": ""
     }
   },
-    {
+  {
     "op": "add",
     "path": "/items/hylotl/0/1/0/legs/-",
     "value": {
       "name": ""
     }
   },
-    {
+  {
     "op": "add",
     "path": "/items/novakid/0/1/0/chest/-",
     "value": {
       "name": ""
     }
   },
-    {
+  {
     "op": "add",
     "path": "/items/novakid/0/1/0/legs/-",
     "value": {
