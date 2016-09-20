@@ -1,4 +1,4 @@
-# sbmod-vilhum
+# sbmod-vilprot
 
 Code licensed under GPLv3, file included.
 
