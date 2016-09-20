@@ -71,6 +71,34 @@
   },
   {
     "op": "add",
+    "path": "/items/human/0/1/1/chest/-",
+    "value": {
+      "name": ""
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/1/legs/-",
+    "value": {
+      "name": ""
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/2/chest/-",
+    "value": {
+      "name": ""
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/2/legs/-",
+    "value": {
+      "name": ""
+    }
+  },
+  {
+    "op": "add",
     "path": "/items/hylotl/0/1/0/chest/-",
     "value": {
       "name": ""
