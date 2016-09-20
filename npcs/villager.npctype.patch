@@ -1,92 +1,100 @@
 [
   {
     "op": "add",
+    "path": "/items/apex/0/1/0/chest/-",
+    "value": {
+      "name": ""
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/apex/0/1/0/legs/-",
+    "value": {
+      "name": ""
+    }
+  },
+    {
+    "op": "add",
+    "path": "/items/avian/0/1/0/chest/-",
+    "value": {
+      "name": ""
+    }
+  },
+  {
+    "op": "add",
     "path": "/items/avian/0/1/0/legs/-",
     "value": {
-      "name": "avianworkerpants",
-      "parameters": {
-        "colorIndex": [
-          1,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9
-        ]
-      }
+      "name": ""
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/floran/0/1/0/chest/-",
+    "value": {
+      "name": ""
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/floran/0/1/0/legs/-",
+    "value": {
+      "name": ""
     }
   },
   {
     "op": "add",
     "path": "/items/glitch/0/1/0/chest/-",
     "value": {
-      "name": "craftsmenchest",
-      "parameters": {
-        "colorIndex": [
-          1,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9
-        ]
-      }
-    }
-  },
-  {
-    "op": "add",
-    "path": "/items/glitch/0/1/0/chest/-",
-    "value": {
-      "name": "merchantchest",
-      "parameters": {
-        "colorIndex": [
-          1,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9
-        ]
-      }
+      "name": ""
     }
   },
   {
     "op": "add",
     "path": "/items/glitch/0/1/0/legs/-",
     "value": {
-      "name": "craftsmenlegs",
-      "parameters": {
-        "colorIndex": [
-          1,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9
-        ]
-      }
+      "name": ""
     }
   },
-  {
+    {
     "op": "add",
-    "path": "/items/glitch/0/1/0/legs/-",
+    "path": "/items/human/0/1/0/chest/-",
     "value": {
-      "name": "merchantlegs",
-      "parameters": {
-        "colorIndex": [
-          1,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9
-        ]
-      }
+      "name": ""
     }
-  }
+  },
+    {
+    "op": "add",
+    "path": "/items/human/0/1/0/legs/-",
+    "value": {
+      "name": ""
+    }
+  },
+    {
+    "op": "add",
+    "path": "/items/hylotl/0/1/0/chest/-",
+    "value": {
+      "name": ""
+    }
+  },
+    {
+    "op": "add",
+    "path": "/items/hylotl/0/1/0/legs/-",
+    "value": {
+      "name": ""
+    }
+  },
+    {
+    "op": "add",
+    "path": "/items/novakid/0/1/0/chest/-",
+    "value": {
+      "name": ""
+    }
+  },
+    {
+    "op": "add",
+    "path": "/items/novakid/0/1/0/legs/-",
+    "value": {
+      "name": ""
+    }
+  },
 ]
