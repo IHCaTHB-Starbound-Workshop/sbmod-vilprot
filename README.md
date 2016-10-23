@@ -6,8 +6,8 @@ community.playstarbound.com/threads/124193/
 
 Consider permission granted to take over this mod IF
 
-a request is sent via message on the forums and a response takes longer than 1 week
+I have been inactive for longer than 1 month
 AND
-I have been inactive for longer than 2 months
+a request is sent via message on the forums and a response takes longer than 1 week.
 
 Find all other pertinent information in the _metadata file.
